@@ -1,1 +1,12 @@
-{"users":{},"logs":[],"osint_keys":{}}
+{
+  "users": {},
+  "logs": [
+    {
+      "timestamp": "2026-07-02T22:49:07.855Z",
+      "key": "2011",
+      "success": true,
+      "hwid": "KX-MYPIV0"
+    }
+  ],
+  "osint_keys": {}
+}
