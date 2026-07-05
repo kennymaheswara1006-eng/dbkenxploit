@@ -1,5 +1,12 @@
 {
-  "users": {},
+  "users": {
+    "Qwiw": {
+      "name": "Pler",
+      "tier": "VIP",
+      "bid": null,
+      "exp": "PERMANENT"
+    }
+  },
   "logs": [
     {
       "timestamp": "2026-07-05T03:28:08.161Z",
