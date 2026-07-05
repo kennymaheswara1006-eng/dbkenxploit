@@ -3,11 +3,17 @@
     "Qwiw": {
       "name": "Pler",
       "tier": "VIP",
-      "bid": null,
+      "bid": "E70D82DD-BFE9-99F3-A4F9-EA1BE2BDAC24",
       "exp": "PERMANENT"
     }
   },
   "logs": [
+    {
+      "timestamp": "2026-07-05T03:29:32.955Z",
+      "key": "Qwiw",
+      "success": true,
+      "hwid": "E70D82DD-BFE9-99F3-A4F9-EA1BE2BDAC24"
+    },
     {
       "timestamp": "2026-07-05T03:28:08.161Z",
       "key": "2011",
