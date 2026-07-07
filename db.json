@@ -135,5 +135,10 @@
       "hwid": "KX-MYPIV0"
     }
   ],
-  "osint_keys": {}
+  "osint_keys": {
+    "hibp": "",
+    "numverify": "",
+    "whois": "",
+    "gemini": "AIzaSyDzDBsBdvZdSb10hfEi6uYGorGCFSqE0YM"
+  }
 }
